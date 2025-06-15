@@ -6,8 +6,8 @@ from uuid import uuid4
 import youtube_dl
 from models import ConversationInfo
 
-PHOTO_DOWNLOADERS = 10
-VIDEO_DOWNLOADERS = 10
+PHOTO_DOWNLOADERS = 5
+VIDEO_DOWNLOADERS = 5
 PARSER_WORKERS = 5
 
 class MediaPipeline:
