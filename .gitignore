@@ -1,0 +1,5 @@
+media-files*
+vk_config*
+.idea/
+*.pyc
+__pycache__*
