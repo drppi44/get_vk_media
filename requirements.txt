@@ -1,0 +1,4 @@
+git+https://github.com/python273/vk_api.git@master
+requests
+youtube_dl
+rich
